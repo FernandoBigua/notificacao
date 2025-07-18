@@ -1,67 +1,125 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="style.css">
-  
-  <title>Compromisso</title>
-  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+    integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <title>Fiscalização SED - Compromissos</title>
 </head>
-<body>
-  <div class="box">
-  <form id="formulario">
-    <fieldset>
-    <header>
-      <h1>
-        <img src="https://th.bing.com/th/id/OIP.dWxa3kO3rzOI3FOII20j2AHaG_?w=208&h=197&c=7&r=0&o=5&pid=1.7" alt="Brasão de SC" style="height: 40px; vertical-align: middle; margin-right: 10px;border-radius: 10px;">
-        Fiscalização SED
-      </h1>
-      
-    </header>
-    <main>
-      <h2 class="piscando">Notificação SED</h2>
-      
-      <div class="botoes">
-        <a href="https://docs.google.com/document/d/1uFfRjBNhkgwJbgDbW-3vhnmKMc0l315LkzT-clMot8Y/edit?usp=sharing" target="_blank">NOTIFICAÇÃO SED LOTE 1</a>
-        <a href="https://docs.google.com/document/d/1JVGgmi_AyG_0aGVOmXNmoUF2IU43SqlJ86E0-0S53Kg/edit?usp=sharing" target="_blank">NOTIFICAÇÃO SED LOTE 2</a>
-        <a href="https://docs.google.com/document/d/10uSSIgs4n-kcd-zM0ubGhSlbhLT_tEuLak3trTthOlA/edit?usp=sharing" target="_blank">NOTIFICAÇÃO SED LOTE 3</a>
-        <a href="https://docs.google.com/document/d/1wkY1J0PyzrO-BrKKEbVO8FtJQ84bm7S_WPqLy7eXH9M/edit?usp=sharing" target="_blank">NOTIFICAÇÃO SED LOTE 4</a>
-        <a href="https://docs.google.com/document/d/1MJe9yLoWIgVnGks2L-vgX8zhh6bK5s4jTH5XyJ_l26g/edit?usp=sharing" target="_blank">NOTIFICAÇÃO SED LOTE 5</a>
-        <a href="https://docs.google.com/document/d/1248vwH3i8x8cYp4yMcvFqckgGM04HwsohPHOcAntovs/edit?usp=sharing" target="_blank">NOTIFICAÇÃO SED LOTE 6</a>
-        <a href="https://docs.google.com/document/d/1FPNom8_gpeESB4j3lGgFg99fpZ96trZGif2F5bh0nEo/edit?usp=sharing" target="_blank">NOTIFICAÇÃO SED LOTE 7</a>
-      </div>
-       
-      <div class="botoes1">
-        <a href="https://docs.google.com/document/d/1O3tYaMybZl2S71XsNOBqpkBWsizS27j544NeO3ldc8M/edit?usp=sharing" target="_blank">PARECER SED LOTE 1</a>
-        <a href="https://docs.google.com/document/d/1bamJf6dKSu0T9JqigFV2jmyKNX-BieqjRygMFvIzCwo/edit?usp=sharing" target="_blank">PARECER SED LOTE 2</a>
-        <a href="https://docs.google.com/document/d/1266NI8Fwrrl4nDAAE0njc1u0O930AqW9D8eTuvIPEYc/edit?usp=sharing" target="_blank">PARECER SED LOTE 3</a>
-        <a href="https://docs.google.com/document/d/1rmWxWSFdbsgoFS3k4DLScLYi7vInclSA_gcm74-SAVw/edit?usp=sharing" target="_blank">PARECER SED LOTE 4</a>
-        <a href="https://docs.google.com/document/d/1PmRf_ofVlK-j0m47T9tb3nz_o1yi6M9HlUp3gFyIeJw/edit?usp=sharing" target="_blank">PARECER SED LOTE 5</a>
-        <a href="https://docs.google.com/document/d/1z4Mo_LRY-29EUgiYduWfLWL8K72Wkx1Ls3l7NOZwKNw/edit?usp=sharing" target="_blank">PARECER SED LOTE 6</a>
-        <a href="https://docs.google.com/document/d/1Lu6qoOQwchA2YGcto3F4S2sQ_6RLQFS2MoDh61x48FY/edit?usp=sharing" target="_blank">PARECER SED LOTE 7</a>
-        
-      </div>
-      <label for="sel">Selecione o compromisso:</label>
-      <br><br>
-      <select name="sel" id="sel">
-        <option value="">-- Escolha --</option>
-        <option value="1">1 - Instalações físicas e ambientais: cozinha</option>
-        <option value="2">2 - Alimentos</option>
-        <option value="3">3 - Manipuladores</option>
-        <option value="4">4 - Equipamentos, móveis e utensílios</option>
-        <option value="5">5 - Cardápio</option>
-        <option value="6">6 - Documentação</option>
-      </select><br><br>
-      
 
-      <label>Itens e descrições:</label>
-      <ul id="itens"></ul>
-    </main>
-  </fieldset>
-  </form>
+<body>
+  <div id="cabecalhoImpressao" class="cabecalho-impressao">
+  <div class="logo-e-texto">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bras%C3%A3o_de_Santa_Catarina.svg/640px-Bras%C3%A3o_de_Santa_Catarina.svg.png" alt="Brasão de Santa Catarina">
+    <div class="texto-institucional">
+      <p>ESTADO DE SANTA CATARINA</p>
+      <p>SECRETARIA DE ESTADO DA EDUCAÇÃO</p>
+      <p>GERÊNCIA DE ADMINISTRAÇÃO ESCOLAR - GEADE</p>
+    </div>
+  </div>
+  <div class="info-filtros">
+    <p id="infoCompromisso"></p>
+    <p id="infoResponsabilidade"></p>
+  </div>
 </div>
 
- <script src="script.js"></script> 
+  <div class="box">
+    <form id="formulario">
+      <fieldset>
+        <header>
+          <h1>
+            <img src="https://th.bing.com/th/id/OIP.dWxa3kO3rzOI3FOII20j2AHaG_?w=208&h=197&c=7&r=0&o=5&pid=1.7"
+              alt="Brasão de SC" style="height: 40px; vertical-align: middle; margin-right: 10px;border-radius: 10px;">
+            FISCALIZAÇÃO SED
+          </h1>
+        </header>
+        <main>
+          <h2 class="piscando">Notificação SED</h2>
+
+          <div class="botoes">
+
+            <a href="https://docs.google.com/document/d/1uFfRjBNhkgwJbgDbW-3vhnmKMc0l315LkzT-clMot8Y/edit?usp=sharing"
+              target="_blank">NOTIFICAÇÃO SED LOTE 1</a>
+            <a href="https://docs.google.com/document/d/1JVGgmi_AyG_0aGVOmXNmoUF2IU43SqlJ86E0-0S53Kg/edit?usp=sharing"
+              target="_blank">NOTIFICAÇÃO SED LOTE 2</a>
+            <a href="https://docs.google.com/document/d/10uSSIgs4n-kcd-zM0ubGhSlbhLT_tEuLak3trTthOlA/edit?usp=sharing"
+              target="_blank">NOTIFICAÇÃO SED LOTE 3</a>
+            <a href="https://docs.google.com/document/d/1wkY1J0PyzrO-BrKKEbVO8FtJQ84bm7S_WPqLy7eXH9M/edit?usp=sharing"
+              target="_blank">NOTIFICAÇÃO SED LOTE 4</a>
+            <a href="https://docs.google.com/document/d/1MJe9yLoWIgVnGks2L-vgX8zh6bK5s4jTH5XyJ_l26g/edit?usp=sharing"
+              target="_blank">NOTIFICAÇÃO SED LOTE 5</a>
+            <a href="https://docs.google.com/document/d/1248vwH3i8x8cYp4yMcvFqckgGM04HwsohPHOcAntovs/edit?usp=sharing"
+              target="_blank">NOTIFICAÇÃO SED LOTE 6</a>
+            <a href="https://docs.google.com/document/d/1FPNom8_gpeESB4j3lGgFg99fpZ96trZGif2F5bh0nEo/edit?usp=sharing"
+              target="_blank">NOTIFICAÇÃO SED LOTE 7</a>
+          </div>
+
+          <div class="botoes1">
+            <a href="https://docs.google.com/document/d/1O3tYaMybZl2S71XsNOBqpkBWsizS27j544NeO3ldc8M/edit?usp=sharing"
+              target="_blank">PARECER SED LOTE 1</a>
+            <a href="https://docs.google.com/document/d/1bamJf6dKSu0T9JqigFV2jmyKNX-BieqjRygMFvIzCwo/edit?usp=sharing"
+              target="_blank">PARECER SED LOTE 2</a>
+            <a href="https://docs.google.com/document/d/1266NI8Fwrrl4nDAAE0njc1u0O930AqW9D8eTuvIPEYc/edit?usp=sharing"
+              target="_blank">PARECER SED LOTE 3</a>
+            <a href="https://docs.google.com/document/d/1rmWxWSFdbsgoFS3k4DLScLYi7vInclSA_gcm74-SAVw/edit?usp=sharing"
+              target="_blank">PARECER SED LOTE 4</a>
+            <a href="https://docs.google.com/document/d/1PmRf_ofVlK-j0m47T9tb3nz_o1yi6M9HlUp3gFyIeJw/edit?usp=sharing"
+              target="_blank">PARECER SED LOTE 5</a>
+            <a href="https://docs.google.com/document/d/1z4Mo_LRY-29EUgiYduWfLWL8K72Wkx1Ls3l7NOZwKNw/edit?usp=sharing"
+              target="_blank">PARECER SED LOTE 6</a>
+            <a href="https://docs.google.com/document/d/1Lu6qoOQwchA2YGcto3F4S2sQ_6RLQFS2MoDh61x48FY/edit?usp=sharing"
+              target="_blank">PARECER SED LOTE 7</a>
+          </div>
+
+          <div class="filtros-e-imprimir">
+            <div class="filtros">
+              <div class="filtro-grupo">
+                <label for="filtroCompromisso">Filtrar por Compromisso:</label>
+                <select name="filtroCompromisso" id="filtroCompromisso">
+                  <option value="" disabled selected>-- Todos os Compromissos --</option>
+                </select>
+              </div>
+
+              <div class="filtro-grupo">
+                <label for="filtroResponsabilidade">Filtrar por Responsabilidade:</label>
+                <select name="filtroResponsabilidade" id="filtroResponsabilidade" required>
+                  <option value="" disabled selected>Selecione uma Responsabilidade</option>
+                  <option value="Estado">Estado</option>
+                  <option value="Terceirizada">Terceirizada</option>
+                </select>
+              </div>
+            </div>
+            <button type="button" id="botaoImprimir" style="display:none;" onclick="imprimirComDelay()">
+  <span class="fas fa-print"></span> Imprimir Tabela
+</button>
+
+          </div>
+
+          <div class="tabela-container">
+            <table id="compromissosTable">
+              <thead>
+                <tr>
+                  <th>Compromisso</th>
+                  <th>Responsabilidade</th>
+                  <th>Item</th>
+                  <th>Descrição</th>
+                  <th>Prazo</th>
+                </tr>
+              </thead>
+              <tbody>
+              </tbody>
+            </table>
+          </div>
+        </main>
+      </fieldset>
+    </form>
+  </div>
+
+  <script src="script.js"></script>
 </body>
+
 </html>
