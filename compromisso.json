@@ -1,667 +1,653 @@
 [
   {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
+    "COMPROMISSO": "1 CARDÁPIO",
     "RESPONSABILIDADE": "Estado",
     "ITEM": "1.1",
-    "DESCRIÇÃO": "Acesso independente a cozinha e controlado não comum a outros usos",
-    "PRAZO": "-"
+    "DESCRIÇÃO": "Cardápio está exposto em local visível no refeitório (por faixa etária e com parâmetros nutricionais)",
+    "PRAZO": "IMEDIATO"
   },
   {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
+    "COMPROMISSO": "1 CARDÁPIO",
     "RESPONSABILIDADE": "Estado",
     "ITEM": "1.2",
-    "DESCRIÇÃO": "Instalação elétrica adequada (embutida ou protegida)",
-    "PRAZO": "30 DIAS"
+    "DESCRIÇÃO": "Cardápios para alunos NAE está exposto em local visível no refeitório (com parâmetros nutricionais)",
+    "PRAZO": "IMEDIATO"
   },
   {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Terceirizada",
+    "COMPROMISSO": "1 CARDÁPIO",
+    "RESPONSABILIDADE": "Estado",
     "ITEM": "1.3",
-    "DESCRIÇÃO": "Iluminação adequada (proporciona a visualização e não compromete a higienização)",
-    "PRAZO": "5 DIAS"
+    "DESCRIÇÃO": "Presença de Carômetro em local visível",
+    "PRAZO": "IMEDIATO"
   },
   {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
+    "COMPROMISSO": "1 CARDÁPIO",
     "RESPONSABILIDADE": "Terceirizada",
     "ITEM": "1.4",
-    "DESCRIÇÃO": "Lâmpadas com proteção contra queda e explosão ou de LED",
-    "PRAZO": "5 DIAS"
+    "DESCRIÇÃO": "Cumprimento do cardápio da SED/GEADE",
+    "PRAZO": "IMEDIATO"
   },
   {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
+    "COMPROMISSO": "1 CARDÁPIO",
     "RESPONSABILIDADE": "Terceirizada",
     "ITEM": "1.5",
-    "DESCRIÇÃO": "Ventilação adequada (permite a renovação do ar sem condensação de vapores)",
-    "PRAZO": "30 DIAS"
+    "DESCRIÇÃO": "Presença das fichas técnicas das preparações do cardápio em local acessível",
+    "PRAZO": "5 DIAS"
   },
   {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
+    "COMPROMISSO": "1 CARDÁPIO",
     "RESPONSABILIDADE": "Terceirizada",
     "ITEM": "1.6",
-    "DESCRIÇÃO": "Existência de ventiladores",
-    "PRAZO": "30 DIAS"
+    "DESCRIÇÃO": "Presença das quantidades per capita das preparações do cardápio em local visível",
+    "PRAZO": "IMEDIATO"
   },
   {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
+    "COMPROMISSO": "1 CARDÁPIO",
     "RESPONSABILIDADE": "Terceirizada",
     "ITEM": "1.7",
-    "DESCRIÇÃO": "Existência de climatizadores (ar condicionado)",
-    "PRAZO": "30 DIAS"
+    "DESCRIÇÃO": "Oferecem aos escolares a qualidade e quantidade (per capita) dos alimentos preparados de acordo com o contrato vigente",
+    "PRAZO": "IMEDIATO"
   },
   {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "1.8",
-    "DESCRIÇÃO": "Ventilação com fluxo de ar que não incide diretamente sobre os alimentos",
-    "PRAZO": "24 HORAS"
-  },
-  {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "1.9",
-    "DESCRIÇÃO": "Existe POP de higienização do equipamento de ventilação/climatização e seu controle de realização",
-    "PRAZO": "20 DIAS"
-  },
-  {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Estado",
-    "ITEM": "1.10",
-    "DESCRIÇÃO": "Existe tubulação para coifa",
-    "PRAZO": "30 DIAS"
-  },
-  {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "1.11",
-    "DESCRIÇÃO": "Existe coifa",
-    "PRAZO": "30 DIAS"
-  },
-  {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Estado",
-    "ITEM": "1.12",
-    "DESCRIÇÃO": "Possui abertura para instalação de exaustor",
-    "PRAZO": "30 DIAS"
-  },
-  {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "1.13",
-    "DESCRIÇÃO": "Existe exaustor",
-    "PRAZO": "30 DIAS"
-  },
-  {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Estado",
-    "ITEM": "1.14",
-    "DESCRIÇÃO": "Instalação hidráulica adequada (embutida ou protegida)",
-    "PRAZO": "30 DIAS"
-  },
-  {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "1.15",
-    "DESCRIÇÃO": "Existe filtro instalado nas torneiras da cozinha",
-    "PRAZO": "72 HORAS"
-  },
-  {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "1.16",
-    "DESCRIÇÃO": "Manutenção periódica do filtro (troca do refil)",
-    "PRAZO": "72 HORAS"
-  },
-  {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "1.17",
-    "DESCRIÇÃO": "Teto, paredes e piso com revestimento liso, impermeável e lavável, preferencialmente de cor clara",
-    "PRAZO": "30 DIAS"
-  },
-  {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "1.18",
-    "DESCRIÇÃO": "Teto, paredes e piso em bom estado de conservação e higiene",
-    "PRAZO": "24 HORAS"
-  },
-  {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "1.19",
-    "DESCRIÇÃO": "As aberturas externas estão revestidas por telas removíveis",
-    "PRAZO": "15 DIAS"
-  },
-  {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "1.20",
-    "DESCRIÇÃO": "As telas existentes são mantidas em bom estado de limpeza e conservação e ajustadas aos batentes",
-    "PRAZO": "48 HORAS"
-  },
-  {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "1.21",
-    "DESCRIÇÃO": "Portas com fechamento automático e com proteção contra entrada de vetores e pragas",
-    "PRAZO": "15 DIAS"
-  },
-  {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Estado",
-    "ITEM": "1.22",
-    "DESCRIÇÃO": "Caixa de gordura está localizada fora da área da cozinha",
-    "PRAZO": "90 DIAS"
-  },
-  {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "1.23",
-    "DESCRIÇÃO": "Existem ralos sifonados",
-    "PRAZO": "5 DIAS"
-  },
-  {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "1.24",
-    "DESCRIÇÃO": "Ralos com proteção contra a entrada de vetores e pragas",
-    "PRAZO": "5 DIAS"
-  },
-  {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "1.25",
-    "DESCRIÇÃO": "Instalação interna do gás adequada",
-    "PRAZO": "15 DIAS"
-  },
-  {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Estado",
-    "ITEM": "1.26",
-    "DESCRIÇÃO": "Existe abrigo externo para os botijões de gás (P13 ou P45)",
-    "PRAZO": "30 DIAS"
-  },
-  {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "1.27",
-    "DESCRIÇÃO": "Existe lavatório exclusivo para higienização das mãos dos manipuladores",
-    "PRAZO": "30 DIAS"
-  },
-  {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "1.28",
-    "DESCRIÇÃO": "Lavatórios exclusivos para a higienização das mãos dos manipuladores de alimento são dotados de sabonete líquido e papel toalha não reciclado",
-    "PRAZO": "24 HORAS"
-  },
-  {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "1.29",
-    "DESCRIÇÃO": "Ausência de pragas e vetores (insetos e roedores)",
-    "PRAZO": "15 DIAS"
-  },
-  {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "1.30",
-    "DESCRIÇÃO": "Presença de coletores de separação de resíduos orgânicos e recicláveis",
-    "PRAZO": "30 DIAS"
-  },
-  {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "1.31",
-    "DESCRIÇÃO": "Os coletores utilizados para a deposição dos resíduos na área de preparo de alimentos são acionados sem contato manual",
-    "PRAZO": "20 DIAS"
-  },
-  {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "1.32",
-    "DESCRIÇÃO": "Ambiente em adequado estado higiênico-sanitário",
-    "PRAZO": "24 HORAS"
-  },
-  {
-    "COMPROMISSO": "1 INSTALAÇÕES FÍSICAS E AMBIENTAIS: COZINHA",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "1.33",
-    "DESCRIÇÃO": "Os produtos de limpeza e higienização estão regularizados pelo Ministério da Saúde.",
-    "PRAZO": "30 DIAS"
-  },
-  {
-    "COMPROMISSO": "2 INSTALAÇÕES FÍSICAS E AMBIENTAIS: DEPÓSITO",
+    "COMPROMISSO": "2 REFEITÓRIO",
     "RESPONSABILIDADE": "Estado",
     "ITEM": "2.1",
-    "DESCRIÇÃO": "Tamanho adequado",
-    "PRAZO": ""
+    "DESCRIÇÃO": "Próximo às dependências da cozinha",
+    "PRAZO": "1 ANO"
   },
   {
-    "COMPROMISSO": "2 INSTALAÇÕES FÍSICAS E AMBIENTAIS: DEPÓSITO",
+    "COMPROMISSO": "2 REFEITÓRIO",
     "RESPONSABILIDADE": "Estado",
     "ITEM": "2.2",
-    "DESCRIÇÃO": "Ventilação adequada (permite a renovação do ar sem condensação de vapores)",
-    "PRAZO": "30 DIAS"
+    "DESCRIÇÃO": "Espaço adequado para o número de alunos por turno",
+    "PRAZO": "1 ANO"
   },
   {
-    "COMPROMISSO": "2 INSTALAÇÕES FÍSICAS E AMBIENTAIS: DEPÓSITO",
-    "RESPONSABILIDADE": "Terceirizada",
+    "COMPROMISSO": "2 REFEITÓRIO",
+    "RESPONSABILIDADE": "Estado",
     "ITEM": "2.3",
-    "DESCRIÇÃO": "Uso exclusivo para armazenar alimentos",
+    "DESCRIÇÃO": "Mesas e Assentos em quantidades adequadas por turno",
+    "PRAZO": "1 ANO"
+  },
+  {
+    "COMPROMISSO": "2 REFEITÓRIO",
+    "RESPONSABILIDADE": "Estado",
+    "ITEM": "2.4",
+    "DESCRIÇÃO": "Mesas e Assentos limpos e em bom estado de conservação",
+    "PRAZO": "IMEDIATO"
+  },
+  {
+    "COMPROMISSO": "2 REFEITÓRIO",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "2.5",
+    "DESCRIÇÃO": "Presença de balcão térmico para distribuição das refeições",
+    "PRAZO": "5 DIAS"
+  },
+  {
+    "COMPROMISSO": "2 REFEITÓRIO",
+    "RESPONSABILIDADE": "Estado",
+    "ITEM": "2.6",
+    "DESCRIÇÃO": "Balcão térmico para distribuição das refeições ligado à rede elétrica",
+    "PRAZO": "3 MESES"
+  },
+  {
+    "COMPROMISSO": "2 REFEITÓRIO",
+    "RESPONSABILIDADE": "Estado",
+    "ITEM": "2.7",
+    "DESCRIÇÃO": "Ausência de animais no refeitório",
+    "PRAZO": "IMEDIATO"
+  },
+  {
+    "COMPROMISSO": "3.1 ALIMENTOS: RECEBIMENTO E ARMAZENAMENTO DE MATÉRIA -PRIMA",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "3.1.1",
+    "DESCRIÇÃO": "Embalagens primárias das matérias-primas e dos ingredientes íntegros",
     "PRAZO": "24 HORAS"
   },
   {
-    "COMPROMISSO": "2 INSTALAÇÕES FÍSICAS E AMBIENTAIS: DEPÓSITO",
+    "COMPROMISSO": "3.1 ALIMENTOS: RECEBIMENTO E ARMAZENAMENTO DE MATÉRIA -PRIMA",
+    "RESPONSABILIDADE": "Estado",
+    "ITEM": "3.1.2",
+    "DESCRIÇÃO": "Presença de prateleiras para armazenamento",
+    "PRAZO": "1 ANO"
+  },
+  {
+    "COMPROMISSO": "3.1 ALIMENTOS: RECEBIMENTO E ARMAZENAMENTO DE MATÉRIA -PRIMA",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "2.4",
-    "DESCRIÇÃO": "Os alimentos são armazenados sobre paletes, estrados e/ou prateleiras de material liso, resistente, impermeável, lavável e em bom estado de higiene",
+    "ITEM": "3.1.3",
+    "DESCRIÇÃO": "Armazenamento de matérias-primas em local higienizado e ordenado, utilizando paletes, estrados e prateleiras de material adequado (liso, resistente, impermeável e lavável)",
     "PRAZO": "20 DIAS"
   },
   {
-    "COMPROMISSO": "2 INSTALAÇÕES FÍSICAS E AMBIENTAIS: DEPÓSITO",
+    "COMPROMISSO": "3.1 ALIMENTOS: RECEBIMENTO E ARMAZENAMENTO DE MATÉRIA -PRIMA",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "2.5",
-    "DESCRIÇÃO": "Os alimentos são adequadamente acondicionados e identificados",
+    "ITEM": "3.1.4",
+    "DESCRIÇÃO": "Os alimentos são adequadamente acondicionados, identificados e dentro do prazo de validade",
     "PRAZO": "24 HORAS"
   },
   {
-    "COMPROMISSO": "2 INSTALAÇÕES FÍSICAS E AMBIENTAIS: DEPÓSITO",
+    "COMPROMISSO": "3.1 ALIMENTOS: RECEBIMENTO E ARMAZENAMENTO DE MATÉRIA -PRIMA",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "2.6",
-    "DESCRIÇÃO": "Embalagens de alimentos abertas adequadamente etiquetadas com novo prazo de validade (prazo máximo limite de consumo após a abertura da embalagem original) e acondicionados em recipiente adequado para alimentos",
+    "ITEM": "3.1.6",
+    "DESCRIÇÃO": "Os alimentos que tiveram a embalagem original aberta estão acondicionados em sacos, potes plásticos ou vidro com tampa e identificados com o nome do produto, data de abertura e prazo de validade",
     "PRAZO": "24 HORAS"
   },
   {
-    "COMPROMISSO": "2 INSTALAÇÕES FÍSICAS E AMBIENTAIS: DEPÓSITO",
+    "COMPROMISSO": "3.1 ALIMENTOS: RECEBIMENTO E ARMAZENAMENTO DE MATÉRIA -PRIMA",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "2.7",
-    "DESCRIÇÃO": "Iluminação adequada (proporciona a visualização e não compromete a higienização).",
-    "PRAZO": "5 DIAS"
-  },
-  {
-    "COMPROMISSO": "2 INSTALAÇÕES FÍSICAS E AMBIENTAIS: DEPÓSITO",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "2.8",
-    "DESCRIÇÃO": "Lâmpadas com proteção contra queda e explosão",
-    "PRAZO": "5 DIAS"
-  },
-  {
-    "COMPROMISSO": "2 INSTALAÇÕES FÍSICAS E AMBIENTAIS: DEPÓSITO",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "2.9",
-    "DESCRIÇÃO": "Teto, paredes e piso com revestimento liso, impermeável e lavável, preferencialmente de cor clara",
-    "PRAZO": "30 DIAS"
-  },
-  {
-    "COMPROMISSO": "2 INSTALAÇÕES FÍSICAS E AMBIENTAIS: DEPÓSITO",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "2.10",
-    "DESCRIÇÃO": "Teto, paredes e piso em bom estado de conservação e higiene",
+    "ITEM": "3.1.7",
+    "DESCRIÇÃO": "Prateleiras com destinação específica para gêneros alimentícios",
     "PRAZO": "24 HORAS"
   },
   {
-    "COMPROMISSO": "2 INSTALAÇÕES FÍSICAS E AMBIENTAIS: DEPÓSITO",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "2.11",
-    "DESCRIÇÃO": "As aberturas externas são revestidas por telas removíveis",
-    "PRAZO": "15 DIAS"
+    "COMPROMISSO": "3.1 ALIMENTOS: RECEBIMENTO E ARMAZENAMENTO DE MATÉRIA -PRIMA",
+    "RESPONSABILIDADE": "Estado",
+    "ITEM": "3.1.8",
+    "DESCRIÇÃO": "A área de armazenamento possui tamanho adequado e suporta a necessidade da unidade",
+    "PRAZO": "1 ANO"
   },
   {
-    "COMPROMISSO": "2 INSTALAÇÕES FÍSICAS E AMBIENTAIS: DEPÓSITO",
+    "COMPROMISSO": "3.1 ALIMENTOS: RECEBIMENTO E ARMAZENAMENTO DE MATÉRIA -PRIMA",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "2.12",
-    "DESCRIÇÃO": "As telas existentes são mantidas em bom estado de limpeza e conservação e ajustadas aos batentes",
-    "PRAZO": "48 HORAS"
-  },
-  {
-    "COMPROMISSO": "2 INSTALAÇÕES FÍSICAS E AMBIENTAIS: DEPÓSITO",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "2.13",
-    "DESCRIÇÃO": "Ausência de pragas e vetores (insetos e roedores)",
-    "PRAZO": "15 DIAS"
-  },
-  {
-    "COMPROMISSO": "2 INSTALAÇÕES FÍSICAS E AMBIENTAIS: DEPÓSITO",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "2.14",
-    "DESCRIÇÃO": "Ambiente em adequado estado higiênico-sanitário",
-    "PRAZO": "24 HORAS"
-  },
-  {
-    "COMPROMISSO": "2 INSTALAÇÕES FÍSICAS E AMBIENTAIS: DEPÓSITO",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "2.15",
+    "ITEM": "3.1.9",
     "DESCRIÇÃO": "Ausência de caixas de papelão e madeira",
     "PRAZO": "24 HORAS"
   },
   {
-    "COMPROMISSO": "2 INSTALAÇÕES FÍSICAS E AMBIENTAIS: DEPÓSITO",
+    "COMPROMISSO": "3.2 ALIMENTOS: DESCONGELAMENTO DOS ALIMENTOS",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "2.16",
-    "DESCRIÇÃO": "Local exclusivo para armazenamento de produtos de limpeza longe das áreas de produção",
-    "PRAZO": "5 DIAS"
-  },
-  {
-    "COMPROMISSO": "3 INSTALAÇÕES FÍSICAS E AMBIENTAIS: REFEITÓRIO",
-    "RESPONSABILIDADE": "Estado",
-    "ITEM": "3.1",
-    "DESCRIÇÃO": "Próximo às dependências da cozinha",
-    "PRAZO": "30 DIAS"
-  },
-  {
-    "COMPROMISSO": "3 INSTALAÇÕES FÍSICAS E AMBIENTAIS: REFEITÓRIO",
-    "RESPONSABILIDADE": "Estado",
-    "ITEM": "3.2",
-    "DESCRIÇÃO": "Espaço adequado para o número de alunos por turno",
-    "PRAZO": "30 DIAS"
-  },
-  {
-    "COMPROMISSO": "3 INSTALAÇÕES FÍSICAS E AMBIENTAIS: REFEITÓRIO",
-    "RESPONSABILIDADE": "Estado",
-    "ITEM": "3.3",
-    "DESCRIÇÃO": "Mesas e assentos limpos e em bom estado de conservação",
+    "ITEM": "3.2.1",
+    "DESCRIÇÃO": "Descongelamento realizado sob refrigeração a temperatura inferior à 4°C",
     "PRAZO": "24 HORAS"
   },
   {
-    "COMPROMISSO": "3 INSTALAÇÕES FÍSICAS E AMBIENTAIS: REFEITÓRIO",
-    "RESPONSABILIDADE": "Estado",
-    "ITEM": "3.4",
-    "DESCRIÇÃO": "Mesas em quantidades adequadas por turno",
-    "PRAZO": "15 DIAS"
-  },
-  {
-    "COMPROMISSO": "3 INSTALAÇÕES FÍSICAS E AMBIENTAIS: REFEITÓRIO",
-    "RESPONSABILIDADE": "Estado",
-    "ITEM": "3.5",
-    "DESCRIÇÃO": "Assentos em quantidades adequadas",
-    "PRAZO": "15 DIAS"
-  },
-  {
-    "COMPROMISSO": "3 INSTALAÇÕES FÍSICAS E AMBIENTAIS: REFEITÓRIO",
+    "COMPROMISSO": "3.2 ALIMENTOS: DESCONGELAMENTO DOS ALIMENTOS",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "3.6",
-    "DESCRIÇÃO": "Presença de balcão térmico ou Buffet para distribuição das refeições",
-    "PRAZO": "30 DIAS"
+    "ITEM": "3.2.2",
+    "DESCRIÇÃO": "Alimentos descongelados estão mantidos sob refrigeração e não são congelados novamente",
+    "PRAZO": "24 HORAS"
   },
   {
-    "COMPROMISSO": "3 INSTALAÇÕES FÍSICAS E AMBIENTAIS: REFEITÓRIO",
-    "RESPONSABILIDADE": "Estado",
-    "ITEM": "3.7",
-    "DESCRIÇÃO": "Existe tomada adequada e em funcionamento p/ o balcão térmico",
-    "PRAZO": "30 DIAS"
+    "COMPROMISSO": "3.3 ALIMENTOS: CUIDADOS NA PREPARAÇÃO DOS ALIMENTOS",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "3.3.1",
+    "DESCRIÇÃO": "Os alimentos consumidos crus são devidamente higienizados (lavagem e desinfecção)",
+    "PRAZO": "24 HORAS"
   },
   {
-    "COMPROMISSO": "4 ALIMENTOS",
+    "COMPROMISSO": "3.3 ALIMENTOS: CUIDADOS NA PREPARAÇÃO DOS ALIMENTOS",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "3.3.2",
+    "DESCRIÇÃO": "Não há contato entre alimentos crus e prontos para o consumo",
+    "PRAZO": "24 HORAS"
+  },
+  {
+    "COMPROMISSO": "3.3 ALIMENTOS: CUIDADOS NA PREPARAÇÃO DOS ALIMENTOS",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "3.3.3",
+    "DESCRIÇÃO": "Temperatura de distribuição dos alimentos preparados está adequada (superior a 60°C)",
+    "PRAZO": "24 HORAS"
+  },
+  {
+    "COMPROMISSO": "3.3 ALIMENTOS: CUIDADOS NA PREPARAÇÃO DOS ALIMENTOS",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "3.3.4",
+    "DESCRIÇÃO": "É realizada a coleta de amostras (mínimo 100g/ml) antes do início da distribuição",
+    "PRAZO": "24 HORAS"
+  },
+  {
+    "COMPROMISSO": "3.3 ALIMENTOS: CUIDADOS NA PREPARAÇÃO DOS ALIMENTOS",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "3.3.5",
+    "DESCRIÇÃO": "As amostras dos alimentos servidos são mantidas por 72h, sob refrigeração a 4°C ou congelamento a -18°C",
+    "PRAZO": "24 HORAS"
+  },
+  {
+    "COMPROMISSO": "4 MANIPULADORES",
     "RESPONSABILIDADE": "Terceirizada",
     "ITEM": "4.1",
-    "DESCRIÇÃO": "Temperaturas de recebimento e armazenamento das matérias-primas refrigeradas e congeladas estão adequadas",
-    "PRAZO": "24 HORAS"
-  },
-  {
-    "COMPROMISSO": "4 ALIMENTOS",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "4.2",
-    "DESCRIÇÃO": "Alimentos armazenados dentro do prazo de validade",
-    "PRAZO": "24 HORAS"
-  },
-  {
-    "COMPROMISSO": "4 ALIMENTOS",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "4.3",
-    "DESCRIÇÃO": "Alimentos que serão servidos crus são devidamente higienizados",
-    "PRAZO": "24 HORAS"
-  },
-  {
-    "COMPROMISSO": "4 ALIMENTOS",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "4.4",
-    "DESCRIÇÃO": "Temperatura de distribuição dos alimentos preparados adequada",
-    "PRAZO": "24 HORAS"
-  },
-  {
-    "COMPROMISSO": "4 ALIMENTOS",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "4.5",
-    "DESCRIÇÃO": "Coleta de amostras (mínimo 100g/ml) realizada antes do início da distribuição",
-    "PRAZO": "24 HORAS"
-  },
-  {
-    "COMPROMISSO": "4 ALIMENTOS",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "4.6",
-    "DESCRIÇÃO": "Amostras dos alimentos servidos são mantidas por 72 (setenta e duas) horas sob refrigeração a 4ºC",
-    "PRAZO": "24 HORAS"
-  },
-  {
-    "COMPROMISSO": "4 ALIMENTOS",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "4.7",
-    "DESCRIÇÃO": "Descongelamento sob refrigeração",
-    "PRAZO": "24 HORAS"
-  },
-  {
-    "COMPROMISSO": "5 MANIPULADORES",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "5.1",
-    "DESCRIÇÃO": "Realizam exames de saúde periódicos e Atestado de Saúde Ocupacional (ASO)",
-    "PRAZO": "72 HORAS"
-  },
-  {
-    "COMPROMISSO": "5 MANIPULADORES",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "5.2",
-    "DESCRIÇÃO": "Utilizam uniformes específicos, conservados e limpos (calça comprida, camiseta, avental brancos e sapato de segurança, máscaras individuais, luvas e toucas descartáveis)",
+    "DESCRIÇÃO": "Os manipuladores possuem Atestado de Saúde Ocupacional (ASO) atualizado e o mesmo encontra-se disponível na cozinha da unidade escolar",
     "PRAZO": "48 HORAS"
   },
   {
-    "COMPROMISSO": "5 MANIPULADORES",
+    "COMPROMISSO": "4 MANIPULADORES",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "5.3",
-    "DESCRIÇÃO": "Ausência de barba e adornos, cabelo preso e protegidos com touca, unhas curtas e sem esmalte, sem maquiagem e perfume",
+    "ITEM": "4.2",
+    "DESCRIÇÃO": "Os manipuladores possuem registro de capacitação em higiene pessoal, manipulação higiênica de alimentos e em doenças transmitidas por alimentos atualizado, e o certificado está disponível na cozinha da unidade escolar",
+    "PRAZO": "15 DIAS"
+  },
+  {
+    "COMPROMISSO": "4 MANIPULADORES",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "4.3",
+    "DESCRIÇÃO": "Utilizam uniformes compatíveis com a atividade, conservados e limpos, com uso exclusivo nas dependências internas (calça comprida, camiseta, avental brancos, sapato de segurança e toucas descartáveis)",
+    "PRAZO": "72 HORAS"
+  },
+  {
+    "COMPROMISSO": "4 MANIPULADORES",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "4.4",
+    "DESCRIÇÃO": "Asseio pessoal: mãos limpas, unhas curtas, sem esmalte, sem adornos (anéis, pulseiras, brincos, etc), maquiagem e perfume. Cabelos presos, protegidos por toucas e ausência de barba",
     "PRAZO": "24 HORAS"
   },
   {
-    "COMPROMISSO": "5 MANIPULADORES",
+    "COMPROMISSO": "4 MANIPULADORES",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "5.4",
-    "DESCRIÇÃO": "Existe local específico (armário) para guardar roupas e objetos pessoais",
-    "PRAZO": "20 DIAS"
+    "ITEM": "4.5",
+    "DESCRIÇÃO": "Número adequado de cozinheiras fixas, cardápio Parcial (1 a cada 80 refeições servidas)",
+    "PRAZO": "24 HORAS"
   },
   {
-    "COMPROMISSO": "5 MANIPULADORES",
+    "COMPROMISSO": "4 MANIPULADORES",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "5.5",
-    "DESCRIÇÃO": "Possuem registro de capacitação em higiene pessoal, manipulação higiênica de alimentos e em doenças transmitidas por alimentos (capacitação comprovada mediante documentação)",
+    "ITEM": "4.6",
+    "DESCRIÇÃO": "Número adequado de cozinheiras fixas, cardápio Integral I e II (2 até 80 refeições servidas)",
+    "PRAZO": "24 HORAS"
+  },
+  {
+    "COMPROMISSO": "4 MANIPULADORES",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "4.7",
+    "DESCRIÇÃO": "Existe local específico (armário) para guardar roupas e objetos pessoais",
+    "PRAZO": "30 DIAS"
+  },
+  {
+    "COMPROMISSO": "5.1 EDIFICAÇÃO E INSTALAÇÕES: LEIAUTE",
+    "RESPONSABILIDADE": "Estado",
+    "ITEM": "5.1.1",
+    "DESCRIÇÃO": "Acesso independente a cozinha é controlado, não comum a outros usos",
+    "PRAZO": "1 ANO"
+  },
+  {
+    "COMPROMISSO": "5.1 EDIFICAÇÃO E INSTALAÇÕES: LEIAUTE",
+    "RESPONSABILIDADE": "Estado",
+    "ITEM": "5.1.2",
+    "DESCRIÇÃO": "Edificação e instalações projetadas de forma a possibilitar um fluxo ordenado e sem cruzamentos em todas as etapas da preparação de alimentos facilitando as operações de manutenção e higienização",
+    "PRAZO": "1 ANO"
+  },
+  {
+    "COMPROMISSO": "5.1 EDIFICAÇÃO E INSTALAÇÕES: LEIAUTE",
+    "RESPONSABILIDADE": "Estado",
+    "ITEM": "5.1.3",
+    "DESCRIÇÃO": "Existe abrigo externo para os botijões de gás (P13 ou P45)",
+    "PRAZO": "2 MESES"
+  },
+  {
+    "COMPROMISSO": "5.1 EDIFICAÇÃO E INSTALAÇÕES: LEIAUTE",
+    "RESPONSABILIDADE": "Estado",
+    "ITEM": "5.1.4",
+    "DESCRIÇÃO": "Possui local exclusivo (prateleira/armário) para armazenamento de produtos de limpeza, sem contato com os alimentos",
+    "PRAZO": "1 ANO"
+  },
+  {
+    "COMPROMISSO": "5.2 EDIFICAÇÃO E INSTALAÇÕES: LAVATÓRIOS NA ÁREA DE MANIPULAÇÃO",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "5.2.2",
+    "DESCRIÇÃO": "Os lavatórios exclusivos para a higienização das mãos são dotados de torneiras com fechamento automático, sabonete líquido inodoro antisséptico, papel toalha não reciclado",
+    "PRAZO": "15 DIAS"
+  },
+  {
+    "COMPROMISSO": "5.3 EDIFICAÇÃO E INSTALAÇÕES: PISOS, PAREDES E TETO/FORRO",
+    "RESPONSABILIDADE": "Estado",
+    "ITEM": "5.3.1",
+    "DESCRIÇÃO": "Revestimento liso, impermeável e lavável (preferencialmente cor clara)",
+    "PRAZO": "1 ANO"
+  },
+  {
+    "COMPROMISSO": "5.3 EDIFICAÇÃO E INSTALAÇÕES: PISOS, PAREDES E TETO/FORRO",
+    "RESPONSABILIDADE": "Estado",
+    "ITEM": "5.3.2",
+    "DESCRIÇÃO": "Teto, paredes e pisos estão em bom estado de conservação",
+    "PRAZO": "1 ANO"
+  },
+  {
+    "COMPROMISSO": "5.3 EDIFICAÇÃO E INSTALAÇÕES: PISOS, PAREDES E TETO/FORRO",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "5.3.3",
+    "DESCRIÇÃO": "Teto, paredes e pisos estão em bom estado de higiene",
+    "PRAZO": "IMEDIATO"
+  },
+  {
+    "COMPROMISSO": "5.4 EDIFICAÇÃO E INSTALAÇÕES: PORTAS, JANELAS E OUTRAS ABERTURAS",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "5.4.1",
+    "DESCRIÇÃO": "Ajustadas aos batentes",
+    "PRAZO": "15 DIAS"
+  },
+  {
+    "COMPROMISSO": "5.4 EDIFICAÇÃO E INSTALAÇÕES: PORTAS, JANELAS E OUTRAS ABERTURAS",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "5.4.2",
+    "DESCRIÇÃO": "Portas na área de produção de alimentos dotadas de fechamento automático",
+    "PRAZO": "15 DIAS"
+  },
+  {
+    "COMPROMISSO": "5.4 EDIFICAÇÃO E INSTALAÇÕES: PORTAS, JANELAS E OUTRAS ABERTURAS",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "5.4.3",
+    "DESCRIÇÃO": "Janelas e outras aberturas externas estão providas de telas milimetradas e removíveis",
+    "PRAZO": "15 DIAS"
+  },
+  {
+    "COMPROMISSO": "5.4 EDIFICAÇÃO E INSTALAÇÕES: PORTAS, JANELAS E OUTRAS ABERTURAS",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "5.4.4",
+    "DESCRIÇÃO": "As telas existentes são mantidas em bom estado de limpeza e conservação",
+    "PRAZO": "15 DIAS"
+  },
+  {
+    "COMPROMISSO": "5.5 EDIFICAÇÃO E INSTALAÇÕES: ILUMINAÇÃO E INSTALAÇÃO ELÉTRICA",
+    "RESPONSABILIDADE": "Estado",
+    "ITEM": "5.5.1",
+    "DESCRIÇÃO": "Instalação elétrica adequada (embutida ou protegida)",
+    "PRAZO": "2 MESES"
+  },
+  {
+    "COMPROMISSO": "5.5 EDIFICAÇÃO E INSTALAÇÕES: ILUMINAÇÃO E INSTALAÇÃO ELÉTRICA",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "5.5.2",
+    "DESCRIÇÃO": "Iluminação adequada (proporciona a visualização e não compromete a higienização e as características sensoriais dos alimentos)",
+    "PRAZO": "5 DIAS"
+  },
+  {
+    "COMPROMISSO": "5.5 EDIFICAÇÃO E INSTALAÇÕES: ILUMINAÇÃO E INSTALAÇÃO ELÉTRICA",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "5.5.3",
+    "DESCRIÇÃO": "Luminárias apropriadas com sistema de proteção contra explosão e quedas acidentais na cozinha e no estoque",
+    "PRAZO": "15 DIAS"
+  },
+  {
+    "COMPROMISSO": "5.6 EDIFICAÇÃO E INSTALAÇÕES: VENTILAÇÃO E CLIMATIZAÇÃO",
+    "RESPONSABILIDADE": "Estado",
+    "ITEM": "5.6.1",
+    "DESCRIÇÃO": "Ventilação adequada, garante a renovação do ar e mantém o ambiente livre de gases, fumaça, partículas em suspensão (pó, fuligem), condensação de vapores",
+    "PRAZO": "1 ANO"
+  },
+  {
+    "COMPROMISSO": "5.6 EDIFICAÇÃO E INSTALAÇÕES: VENTILAÇÃO E CLIMATIZAÇÃO",
+    "RESPONSABILIDADE": "Estado",
+    "ITEM": "5.6.2",
+    "DESCRIÇÃO": "Possui coifa ou existência de tubulação para instalação",
+    "PRAZO": "1 ANO"
+  },
+  {
+    "COMPROMISSO": "5.6 EDIFICAÇÃO E INSTALAÇÕES: VENTILAÇÃO E CLIMATIZAÇÃO",
+    "RESPONSABILIDADE": "Estado",
+    "ITEM": "5.6.3",
+    "DESCRIÇÃO": "Possui exaustor ou existência de abertura para instalação",
+    "PRAZO": "1 ANO"
+  },
+  {
+    "COMPROMISSO": "5.6 EDIFICAÇÃO E INSTALAÇÕES: VENTILAÇÃO E CLIMATIZAÇÃO",
+    "RESPONSABILIDADE": "Estado",
+    "ITEM": "5.6.4",
+    "DESCRIÇÃO": "Não há existência de ventiladores, nas dependências da cozinha (não é recomendado o uso de ventiladores)",
+    "PRAZO": "90 DIAS"
+  },
+  {
+    "COMPROMISSO": "5.6 EDIFICAÇÃO E INSTALAÇÕES: VENTILAÇÃO E CLIMATIZAÇÃO",
+    "RESPONSABILIDADE": "Estado",
+    "ITEM": "5.6.5",
+    "DESCRIÇÃO": "Não há existência de climatizadores (ar condicionado) nas dependências da cozinha (não é recomendado o uso deste equipamento)",
+    "PRAZO": "90 DIAS"
+  },
+  {
+    "COMPROMISSO": "5.7 EDIFICAÇÃO E INSTALAÇÕES: CONTROLE INTEGRADO DE\n VETORES E PRAGAS URBANAS",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "5.7.1",
+    "DESCRIÇÃO": "Ausência de vetores e pragas urbanas (insetos e roedores) e/ou qualquer evidência de sua presença como fezes, ninhos e outros.",
+    "PRAZO": "5 DIAS"
+  },
+  {
+    "COMPROMISSO": "5.8 EDIFICAÇÃO E INSTALAÇÕES: ABASTECIMENTO DE ÁGUA",
+    "RESPONSABILIDADE": "Estado",
+    "ITEM": "5.8.1",
+    "DESCRIÇÃO": "Instalações hidráulicas adequadas (embutidas ou protegidas)",
+    "PRAZO": "1 ANO"
+  },
+  {
+    "COMPROMISSO": "5.8 EDIFICAÇÃO E INSTALAÇÕES: ABASTECIMENTO DE ÁGUA",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "5.8.2",
+    "DESCRIÇÃO": "Existe filtro instalado nas torneiras da cozinha",
+    "PRAZO": "72 HORAS"
+  },
+  {
+    "COMPROMISSO": "5.8 EDIFICAÇÃO E INSTALAÇÕES: ABASTECIMENTO DE ÁGUA",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "5.8.3",
+    "DESCRIÇÃO": "Manutenção periódica do filtro (troca do refil)",
+    "PRAZO": "72 HORAS"
+  },
+  {
+    "COMPROMISSO": "5.9 EDIFICAÇÃO E INSTALAÇÕES: MANEJO DE RESÍDUOS",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "5.9.1",
+    "DESCRIÇÃO": "Coletores em número e capacidade suficiente, dotados em saco plástico e com tampa acionada sem contato manual",
     "PRAZO": "10 DIAS"
   },
   {
-    "COMPROMISSO": "5 MANIPULADORES",
+    "COMPROMISSO": "5.9 EDIFICAÇÃO E INSTALAÇÕES: MANEJO DE RESÍDUOS",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "5.6",
-    "DESCRIÇÃO": "Número adequado de cozinheiras fixas",
-    "PRAZO": "7 DIAS"
+    "ITEM": "5.9.2",
+    "DESCRIÇÃO": "É realizada a retirada dos resíduos com frequência e depositados em local isolado das áreas de preparação e armazenamento dos alimentos",
+    "PRAZO": "24 HORAS"
+  },
+  {
+    "COMPROMISSO": "5.9 EDIFICAÇÃO E INSTALAÇÕES: MANEJO DE RESÍDUOS",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "5.9.3",
+    "DESCRIÇÃO": "Os produtos de limpeza e higienização estão regularizados pelo Ministério da Saúde",
+    "PRAZO": "24 HORAS"
+  },
+  {
+    "COMPROMISSO": "5.10 EDIFICAÇÃO E INSTALAÇÕES: ESGOTAMENTO SANITÁRIO",
+    "RESPONSABILIDADE": "Estado",
+    "ITEM": "5.10.1",
+    "DESCRIÇÃO": "Caixa de gordura está localizada fora da área da cozinha",
+    "PRAZO": "1 ANO"
+  },
+  {
+    "COMPROMISSO": "5.10 EDIFICAÇÃO E INSTALAÇÕES: ESGOTAMENTO SANITÁRIO",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "5.10.2",
+    "DESCRIÇÃO": "Existência de ralos sifonados",
+    "PRAZO": "5 DIAS"
+  },
+  {
+    "COMPROMISSO": "5.10 EDIFICAÇÃO E INSTALAÇÕES: ESGOTAMENTO SANITÁRIO",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "5.10.3",
+    "DESCRIÇÃO": "Ralos com proteção contra a entrada de vetores e pragas",
+    "PRAZO": "5 DIAS"
+  },
+  {
+    "COMPROMISSO": "5.10 EDIFICAÇÃO E INSTALAÇÕES: ESGOTAMENTO SANITÁRIO",
+    "RESPONSABILIDADE": "Estado",
+    "ITEM": "5.10.4",
+    "DESCRIÇÃO": "Dispõe de conexões com rede de esgoto ou fossa séptica",
+    "PRAZO": "2 MESES"
   },
   {
     "COMPROMISSO": "6 EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS",
     "RESPONSABILIDADE": "Terceirizada",
     "ITEM": "6.1",
     "DESCRIÇÃO": "Equipamentos, móveis e utensílios em bom estado de conservação e higiene",
-    "PRAZO": "24 HORAS"
+    "PRAZO": "30 DIAS"
   },
   {
     "COMPROMISSO": "6 EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS",
     "RESPONSABILIDADE": "Terceirizada",
     "ITEM": "6.2",
-    "DESCRIÇÃO": "Manutenção preventiva e corretiva periódica dos móveis, equipamentos e utensílios",
-    "PRAZO": "20 DIAS"
+    "DESCRIÇÃO": "Móveis em quantidade suficiente",
+    "PRAZO": "30 DIAS"
   },
   {
     "COMPROMISSO": "6 EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS",
     "RESPONSABILIDADE": "Terceirizada",
     "ITEM": "6.3",
-    "DESCRIÇÃO": "Equipamentos com especificação e quantidade suficiente de acordo com o contrato vigente (Quadro 3 -Termo de Referência)",
-    "PRAZO": "30 DIAS"
+    "DESCRIÇÃO": "Utensílios (garfo, colher, faca) em quantidade suficiente",
+    "PRAZO": "10 DIAS"
   },
   {
     "COMPROMISSO": "6 EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS",
     "RESPONSABILIDADE": "Terceirizada",
     "ITEM": "6.4",
-    "DESCRIÇÃO": "Móveis em quantidade suficiente",
-    "PRAZO": "20 DIAS"
+    "DESCRIÇÃO": "Caneca de vidro temperado, transparente, incolor, que comporte no mínimo 250ml, em quantidade suficiente",
+    "PRAZO": "10 DIAS"
   },
   {
     "COMPROMISSO": "6 EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS",
     "RESPONSABILIDADE": "Terceirizada",
     "ITEM": "6.5",
-    "DESCRIÇÃO": "Utensílios em quantidade suficiente",
-    "PRAZO": "20 DIAS"
+    "DESCRIÇÃO": "Prato de vidro, fundo e raso, transparente e incolor, em quantidade suficiente",
+    "PRAZO": "10 DIAS"
   },
   {
     "COMPROMISSO": "6 EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS",
     "RESPONSABILIDADE": "Terceirizada",
     "ITEM": "6.6",
-    "DESCRIÇÃO": "Presença de termômetro",
-    "PRAZO": "5 DIAS"
+    "DESCRIÇÃO": "Presença e utilização de termômetro",
+    "PRAZO": "15 DIAS"
   },
   {
     "COMPROMISSO": "6 EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS",
     "RESPONSABILIDADE": "Terceirizada",
     "ITEM": "6.7",
-    "DESCRIÇÃO": "Presença de balança",
-    "PRAZO": "20 DIAS"
-  },
-  {
-    "COMPROMISSO": "6 EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "6.8",
-    "DESCRIÇÃO": "Relação atualizada de Patrimônio",
-    "PRAZO": "20 DIAS"
+    "DESCRIÇÃO": "Presença de balança funcionando",
+    "PRAZO": "15 DIAS"
   },
   {
     "COMPROMISSO": "6 EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS",
     "RESPONSABILIDADE": "Terceirizada",
     "ITEM": "6.9",
-    "DESCRIÇÃO": "Utilização de perflex para higienização das bandejas",
+    "DESCRIÇÃO": "Utilização de pano descartável (tipo perflex)",
     "PRAZO": "24 HORAS"
   },
   {
     "COMPROMISSO": "6 EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS",
-    "RESPONSABILIDADE": "Terceirizada",
+    "RESPONSABILIDADE": "Estado/Terc",
     "ITEM": "6.10",
-    "DESCRIÇÃO": "Utilização das bandejas para servimento",
+    "DESCRIÇÃO": "Utilização de bandejas para servimento (em casos de aceitação pela unidade)",
     "PRAZO": "24 HORAS"
   },
   {
-    "COMPROMISSO": "6 EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS",
+    "COMPROMISSO": "7.1 DOCUMENTAÇÃO E REGISTRO: MANUAL DE BOAS PRÁTICAS E \nPROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs)",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "6.11",
-    "DESCRIÇÃO": "Caneca de vidro temperado, transparente, incolor, que comporte, no mínimo, 250ml",
-    "PRAZO": "5 DIAS"
-  },
-  {
-    "COMPROMISSO": "6 EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "6.12",
-    "DESCRIÇÃO": "Prato de vidro, fundo e raso, transparente e incolor",
-    "PRAZO": "5 DIAS"
-  },
-  {
-    "COMPROMISSO": "7 CARDÁPIO",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "7.1",
-    "DESCRIÇÃO": "Descrição Sim Cumprimento do cardápio da SED/GEART",
+    "ITEM": "7.1.1",
+    "DESCRIÇÃO": "Dispõe de Manual de Boas Práticas e de Procedimentos Operacionais Padronizados atualizados",
     "PRAZO": "24 HORAS"
   },
   {
-    "COMPROMISSO": "7 CARDÁPIO",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "7.2",
-    "DESCRIÇÃO": "Boa aceitabilidade das preparações ofertadas",
-    "PRAZO": "-"
-  },
-  {
-    "COMPROMISSO": "7 CARDÁPIO",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "7.3",
-    "DESCRIÇÃO": "Presença de cardápio para alunos com Necessidades Alimentares Especiais",
-    "PRAZO": "24 HORAS"
-  },
-  {
-    "COMPROMISSO": "7 CARDÁPIO",
+    "COMPROMISSO": "7.1 DOCUMENTAÇÃO E REGISTRO: MANUAL DE BOAS PRÁTICAS E \nPROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs)",
     "RESPONSABILIDADE": "Estado",
-    "ITEM": "7.4",
-    "DESCRIÇÃO": "Cardápio está exposto em local visível no refeitório",
+    "ITEM": "7.1.2",
+    "DESCRIÇÃO": "Presença de Alvará Sanitário da Unidade Escolar",
+    "PRAZO": "6 MESES"
+  },
+  {
+    "COMPROMISSO": "7.1 DOCUMENTAÇÃO E REGISTRO: MANUAL DE BOAS PRÁTICAS E \nPROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs)",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "7.1.3",
+    "DESCRIÇÃO": "Esses documentos estão acessíveis para consulta",
     "PRAZO": "24 HORAS"
   },
   {
-    "COMPROMISSO": "7 CARDÁPIO",
+    "COMPROMISSO": "8.1 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): HIGIENIZAÇÃO \nDAS INSTALAÇÕES, EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "7.5",
-    "DESCRIÇÃO": "Todas as preparações são disponibilizadas de acordo com o cardápio aos escolares",
+    "ITEM": "8.1.1",
+    "DESCRIÇÃO": "Existência de POP estabelecido",
     "PRAZO": "24 HORAS"
   },
   {
-    "COMPROMISSO": "7 CARDÁPIO",
+    "COMPROMISSO": "8.1 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): HIGIENIZAÇÃO \nDAS INSTALAÇÕES, EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "7.6",
-    "DESCRIÇÃO": "Oferecem aos escolares a qualidade e quantidade (per capitas) dos alimentos preparados de acordo com o contrato vigente",
+    "ITEM": "8.1.2",
+    "DESCRIÇÃO": "POP descrito, sendo cumprido",
     "PRAZO": "24 HORAS"
   },
   {
-    "COMPROMISSO": "8 DOCUMENTAÇÃO",
+    "COMPROMISSO": "8.2 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): CONTROLE \nINTEGRADO DE VETORES E PRAGAS URBANAS",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "8.2.1",
+    "DESCRIÇÃO": "Existência de POP estabelecido",
+    "PRAZO": "24 HORAS"
+  },
+  {
+    "COMPROMISSO": "8.2 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): CONTROLE \nINTEGRADO DE VETORES E PRAGAS URBANAS",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "8.2.2",
+    "DESCRIÇÃO": "POP descrito, sendo cumprido",
+    "PRAZO": "24 HORAS"
+  },
+  {
+    "COMPROMISSO": "8.2 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): CONTROLE \nINTEGRADO DE VETORES E PRAGAS URBANAS",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "8.2.3",
+    "DESCRIÇÃO": "Certificado de desinsetização e desratização da cozinha vigente\n(semestral)",
+    "PRAZO": "15 DIAS"
+  },
+  {
+    "COMPROMISSO": "8.2 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): CONTROLE \nINTEGRADO DE VETORES E PRAGAS URBANAS",
     "RESPONSABILIDADE": "Estado",
-    "ITEM": "8.1",
-    "DESCRIÇÃO": "Presença de alvará sanitário da Unidade Escolar",
-    "PRAZO": "30 DIAS"
+    "ITEM": "8.2.4",
+    "DESCRIÇÃO": "Certificado de desinsetização e desratização da unidade escolar vigente (semestral)",
+    "PRAZO": "15 DIAS"
   },
   {
-    "COMPROMISSO": "8 DOCUMENTAÇÃO",
+    "COMPROMISSO": "8.3 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): HIGIENIZAÇÃO \nDO RESERVATÓRIO",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "8.3.1",
+    "DESCRIÇÃO": "Existência de POP estabelecido",
+    "PRAZO": "24 HORAS"
+  },
+  {
+    "COMPROMISSO": "8.3 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): HIGIENIZAÇÃO \nDO RESERVATÓRIO",
+    "RESPONSABILIDADE": "Terceirizada",
+    "ITEM": "8.3.2",
+    "DESCRIÇÃO": "POP descrito, sendo cumprido",
+    "PRAZO": "24 HORAS"
+  },
+  {
+    "COMPROMISSO": "8.3 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): HIGIENIZAÇÃO \nDO RESERVATÓRIO",
     "RESPONSABILIDADE": "Estado",
-    "ITEM": "8.2",
-    "DESCRIÇÃO": "Presença de certificado atualizado de desinsetização e desratização da cozinha e Unidade Escolar. De responsabilidade do Estado",
-    "PRAZO": "30 DIAS"
+    "ITEM": "8.3.3",
+    "DESCRIÇÃO": "Certificado de higienização do reservatório de água da unidade escolar (semestral)",
+    "PRAZO": "15 DIAS"
   },
   {
-    "COMPROMISSO": "8 DOCUMENTAÇÃO",
+    "COMPROMISSO": "8.3 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): HIGIENIZAÇÃO \nDO RESERVATÓRIO",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "8.3",
-    "DESCRIÇÃO": "Presença de certificado atualizado de desinsetização e desratização da cozinha e Unidade Escolar. De responsabilidade da Terceirizada.",
-    "PRAZO": "30 DIAS"
+    "ITEM": "8.3.4",
+    "DESCRIÇÃO": "Certificado de higienização do reservatório de água da cozinha (semestral)\n*Caso o reservatório seja de uso exclusivo da cozinha, é responsabilidade da terceirizada.",
+    "PRAZO": "15 DIAS"
   },
   {
-    "COMPROMISSO": "8 DOCUMENTAÇÃO",
+    "COMPROMISSO": "8.3 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): HIGIENIZAÇÃO \nDO RESERVATÓRIO",
     "RESPONSABILIDADE": "Estado",
-    "ITEM": "8.4",
-    "DESCRIÇÃO": "Certificado atualizado de higienização do reservatório de água",
-    "PRAZO": "30 DIAS"
+    "ITEM": "8.3.5",
+    "DESCRIÇÃO": "Certificado de higienização da caixa de gordura da unidade escolar\n(semestral)",
+    "PRAZO": "15 DIAS"
   },
   {
-    "COMPROMISSO": "8 DOCUMENTAÇÃO",
+    "COMPROMISSO": "8.3 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): HIGIENIZAÇÃO \nDO RESERVATÓRIO",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "8.5",
-    "DESCRIÇÃO": "Certificado atualizado de higienização da caixa de gordura",
-    "PRAZO": "20 DIAS"
+    "ITEM": "8.3.6",
+    "DESCRIÇÃO": "Certificado de higienização da caixa de gordura da cozinha (semestral), *Caso o reservatório seja de uso exclusivo da cozinha, é responsabilidade da terceirizada.",
+    "PRAZO": "15 DIAS"
   },
   {
-    "COMPROMISSO": "8 DOCUMENTAÇÃO",
+    "COMPROMISSO": "8.4 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): HIGIENE E \nSAÚDE DOS MANIPULADORES",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "8.6",
-    "DESCRIÇÃO": "Presença de Manual de Boas Práticas atualizado em local acessível na Unidade Escolar",
-    "PRAZO": "20 DIAS"
+    "ITEM": "8.4.1",
+    "DESCRIÇÃO": "Existência de POP estabelecido",
+    "PRAZO": "24 HORAS"
   },
   {
-    "COMPROMISSO": "8 DOCUMENTAÇÃO",
+    "COMPROMISSO": "8.4 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): HIGIENE E \nSAÚDE DOS MANIPULADORES",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "8.7",
-    "DESCRIÇÃO": "Presença das fichas técnicas das preparações do cardápio em local acessível na Unidade Escolar",
-    "PRAZO": "20 DIAS"
-  },
-  {
-    "COMPROMISSO": "8 DOCUMENTAÇÃO",
-    "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": "8.8",
-    "DESCRIÇÃO": "Presença das quantidades per capitas das preparações do cardápio em local visível na Unidade Escolar",
+    "ITEM": "8.4.2",
+    "DESCRIÇÃO": "POP descrito, sendo cumprido",
     "PRAZO": "24 HORAS"
   }
 ]
