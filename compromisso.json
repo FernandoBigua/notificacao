@@ -252,28 +252,28 @@
     "PRAZO": "30 DIAS"
   },
   {
-    "COMPROMISSO": "5.1 EDIFICAÇÃO E INSTALAÇÕES: LEIAUTE",
+    "COMPROMISSO": "5.1 EDIFICAÇÃO E INSTALAÇÕES: LAYOUT",
     "RESPONSABILIDADE": "Estado",
     "ITEM": "5.1.1",
     "DESCRIÇÃO": "Acesso independente a cozinha é controlado, não comum a outros usos",
     "PRAZO": "1 ANO"
   },
   {
-    "COMPROMISSO": "5.1 EDIFICAÇÃO E INSTALAÇÕES: LEIAUTE",
+    "COMPROMISSO": "5.1 EDIFICAÇÃO E INSTALAÇÕES: LAYOUT",
     "RESPONSABILIDADE": "Estado",
     "ITEM": "5.1.2",
     "DESCRIÇÃO": "Edificação e instalações projetadas de forma a possibilitar um fluxo ordenado e sem cruzamentos em todas as etapas da preparação de alimentos facilitando as operações de manutenção e higienização",
     "PRAZO": "1 ANO"
   },
   {
-    "COMPROMISSO": "5.1 EDIFICAÇÃO E INSTALAÇÕES: LEIAUTE",
+    "COMPROMISSO": "5.1 EDIFICAÇÃO E INSTALAÇÕES: LAYOUT",
     "RESPONSABILIDADE": "Estado",
     "ITEM": "5.1.3",
     "DESCRIÇÃO": "Existe abrigo externo para os botijões de gás (P13 ou P45)",
     "PRAZO": "2 MESES"
   },
   {
-    "COMPROMISSO": "5.1 EDIFICAÇÃO E INSTALAÇÕES: LEIAUTE",
+    "COMPROMISSO": "5.1 EDIFICAÇÃO E INSTALAÇÕES: LAYOUT",
     "RESPONSABILIDADE": "Estado",
     "ITEM": "5.1.4",
     "DESCRIÇÃO": "Possui local exclusivo (prateleira/armário) para armazenamento de produtos de limpeza, sem contato com os alimentos",
@@ -651,3 +651,4 @@
     "PRAZO": "24 HORAS"
   }
 ]
+
